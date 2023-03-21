@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prasad Sawant</h1>
 <h2 align="center">Mastering The Full-Stack Art Of Software Development</h2>
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
