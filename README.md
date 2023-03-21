@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Sawant</h1>
-<h3 align="center">Mastering the Full-Stack art of software development</h3>
+<h2 align="center">Mastering The Full-Stack Art Of Software Development</h2>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
