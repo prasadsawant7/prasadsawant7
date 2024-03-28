@@ -6,6 +6,9 @@
   <a href="https://dev.to/prasadsawant7">
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
+  <a href="https://leetcode.com/prasadsawant7">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
