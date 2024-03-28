@@ -3,7 +3,7 @@
 
 <h3 align="left">Also active on:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://dev.to/prasadsawant7">
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
 </p>
