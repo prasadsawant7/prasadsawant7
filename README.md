@@ -3,11 +3,11 @@
 
 <h3 align="left">Also active on:</h3>
 <p align="left">
+  <a href="https://www.leetcode.com/prasadsawant7">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prasadsawant7" height="30" width="40" />
+  </a>
   <a href="https://dev.to/prasadsawant7">
     <img src="https://skillicons.dev/icons?i=devto" />
-  </a>
-  <a href="https://leetcode.com/prasadsawant7">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
 </p>
 
