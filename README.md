@@ -9,6 +9,7 @@
 </p>
 
 <!-- DEVTO:START -->
+- [JavaScript Functions](https://dev.to/prasadsawant7/javascript-functions-12i1)
 <!-- DEVTO:END -->
 
 <h3 align="left">Languages and Tools:</h3>
