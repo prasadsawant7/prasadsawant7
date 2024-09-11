@@ -15,9 +15,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,py,spring,nestjs,django&perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,ts,py" />
     <br />
-    <img src="https://skillicons.dev/icons?i=hibernate,prisma" />
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,nestjs,prisma,django" />
     <br />
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,cassandra" />
     <br />
