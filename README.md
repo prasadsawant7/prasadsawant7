@@ -16,6 +16,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,ts,py,spring,nestjs,django&perline=3" />
+    <br />
     <img src="https://skillicons.dev/icons?i=hibernate,maven,gradle,prisma" />
     <br />
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,cassandra" />
