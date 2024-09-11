@@ -17,8 +17,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,ts,py,spring,nestjs,django&perline=3" />
     <img src="https://skillicons.dev/icons?i=hibernate,maven,gradle,prisma" />
+    <br />
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,cassandra" />
+    <br />
     <img src="https://skillicons.dev/icons?i=nginx,aws,terraform,ansible" />
+    <br />
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,prometheus,grafana" />
   </a>
 </p>
