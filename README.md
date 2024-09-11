@@ -15,6 +15,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,redux,nest,go,flask,prisma,graphql,docker,postgres,mongodb,redis,firebase,supabase,appwrite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,ts,py,spring,nestjs,django&perline=3" />
+    <img src="https://skillicons.dev/icons?i=hibernate,maven,gradle,prisma" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,cassandra" />
+    <img src="https://skillicons.dev/icons?i=nginx,aws,terraform,ansible" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,prometheus,grafana" />
   </a>
 </p>
