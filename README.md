@@ -2,7 +2,7 @@
 <h2 align="center">Crafting Robust & Scalable Backend Architectures</h2>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=12C2E9&center=true&vCenter=true&width=435&lines=Backend+Developer+with+a+Focus+on+Efficiency;Building+Resilient+and+Scalable+APIs;Passionate+About+Optimized+Microservices;Cloud-Native+Architecture+Enthusiast" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=12C2E9&center=true&vCenter=true&width=500&lines=Backend+Developer+with+a+Focus+on+Efficiency;Building+Resilient+and+Scalable+APIs;Passionate+About+Optimized+Microservices;Cloud-Native+Architecture+Enthusiast" alt="Typing SVG">
 </p>
 
 ---
