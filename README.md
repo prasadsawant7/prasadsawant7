@@ -23,6 +23,8 @@
     <br />
     <img src="https://skillicons.dev/icons?i=nginx,aws,terraform,ansible" />
     <br />
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,prometheus,grafana" />
+    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker,kubernetes" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
   </a>
 </p>
