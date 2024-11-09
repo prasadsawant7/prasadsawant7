@@ -11,10 +11,10 @@
 I am a passionate **Backend Developer** who loves solving complex problems with efficient, scalable, and maintainable backend systems. I enjoy working with modern server-side technologies, crafting robust APIs, and diving deep into databases and cloud infrastructure.
 
 - 💡 **Expertise:** Designing RESTful APIs, Microservices, and Event-Driven Architectures
-- 🛠 **Tech Stack:** Node.js, NestJS, FastAPI, Spring Boot
+- 🛠 **Tech Stack:** NestJS, FastAPI, Echo
 - 🏗 **Infrastructure:** AWS, Docker, Kubernetes, Terraform, NGINX
 - 📊 **Monitoring:** Prometheus, Grafana, ELK Stack
-- 🏛 **Databases:** PostgreSQL, MongoDB, Redis, Cassandra
+- 🏛 **Databases:** PostgreSQL, MongoDB, Redis
 - 📈 **Scaling & Performance:** Building fault-tolerant, high-performance systems
 
 ---
@@ -40,19 +40,19 @@ I'm always open to collaborating on exciting backend projects or discussing new 
 <p align="left">
   <a href="https://skillicons.dev">
     <!-- Backend Languages -->
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=ts,py,go" alt="Languages" />
     <br />
     <!-- Backend Frameworks -->
-    <img src="https://skillicons.dev/icons?i=express,nestjs,fastapi,spring" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=nestjs,fastapi,echo" alt="Frameworks" />
     <br />
     <!-- Databases -->
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,cassandra" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Databases" />
     <br />
     <!-- DevOps Tools -->
-    <img src="https://skillicons.dev/icons?i=nginx,aws,terraform,ansible" alt="DevOps Tools" />
+    <img src="https://skillicons.dev/icons?i=nginx,aws,terraform" alt="DevOps Tools" />
     <br />
     <!-- CI/CD and Containers -->
-    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker,kubernetes" alt="CI/CD and Containers" />
+    <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes" alt="CI/CD and Containers" />
     <br />
     <!-- Monitoring & Logging -->
     <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" alt="Monitoring and Logging" />
